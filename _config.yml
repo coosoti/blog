@@ -5,9 +5,8 @@ header-img: img/homebg.jpg
 email: icampusvillage@gmail.com
 description: "Writing Down Everything Worth Learning & Remembering"
 keyword: "C, C++, Python, Bash, Networking, @coosoti, web infrastructure"
-url: "https://coosoti.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-
+url: "https://coosoti.github.io"
+baseurl: "" 
 # Publish posts or collection documents with a future date.
 future: true
 
@@ -30,7 +29,7 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+timezone: Africa/Nairobi 
 
 
 
@@ -131,3 +130,13 @@ page-mathjax: false
 #         href: "http://ingf.github.io/"
 #     }
 # ]
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - any_additional_item

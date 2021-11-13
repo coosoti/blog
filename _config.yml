@@ -1,19 +1,20 @@
 # Site settings
-title: Osoti's Blog
+title: Osoti Blog
 SEOTitle: Software Enginer | Osoti's Blog
 header-img: img/homebg.jpg
 email: icampusvillage@gmail.com
 description: "Writing Down Everything Worth Learning & Remembering"
 keyword: "C, C++, Python, Bash, Networking, @coosoti, web infrastructure"
 url: "https://coosoti.github.io"
-baseurl: "" 
+baseurl: ""
+logo: img/favicon/favicon-32x32.png
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
  
-github_username:    coosoti
+github_username: coosoti
 #twitter_username:   
 #facebook_username:  
 #linkedin_username:  firstname-lastname-idxxxx
@@ -25,7 +26,7 @@ github_username:    coosoti
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","vendor/bundle", "node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+exclude: ["less","vendor/bundle","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 timezone: Africa/Nairobi 

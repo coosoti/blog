@@ -1,6 +1,6 @@
 <!-- Navigation -->
 {% if page.nav-style == "invert" or page.header-style == "text" %}
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top invert navabar-inverse">
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top navabar-inverse">
     {% else %}
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
         {% endif %}
@@ -13,7 +13,9 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+                <a class="navbar-brand" href="{{ site.baseurl }}/">
+                    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="logo">
+                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->

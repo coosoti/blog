@@ -1,7 +1,7 @@
 ---
 title: Calendar
 layout: default
-description: ""
+description: "My attempt to master Data Structures and Algorithms within strict timelines"
 header-style: text
 ---
 
@@ -30,13 +30,22 @@ header-style: text
 
 {% include intro-header.html type='page' short=true %}
 
-<article>
-    <div class="">
-        <div class="responsive-iframe-container">
-            <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23039BE5&ctz=Africa%2FNairobi&showTabs=0&showPrint=0&showCalendars=1&title=Software%20Engineer&showNav=1&src=NDZkZGcyY2l1bHVqMGVodmJjanIwZWZmcTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border:solid 1px #777" width="600" height="500" frameborder="0" scrolling="no"></iframe>
-        </div>  
-    </div>
-</article>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12
+        col-xs-12 postlist-container">
+            <div class="responsive-iframe-container">
+                <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23039BE5&ctz=Africa%2FNairobi&showTabs=0&showPrint=0&showCalendars=1&title=Software%20Engineer&showNav=1&src=NDZkZGcyY2l1bHVqMGVodmJjanIwZWZmcTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border:solid 1px #777" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+            </div> 
+        </div>
+
+        <div class="col-lg-3 col-lg-offset-0 col-md-3 col-md-offset-0 col-sm-12
+        col-xs-12 sidebar-container">
+            {% include short-about.html %}
+        </div>
+    </div> 
+</div>
+
 
 
 

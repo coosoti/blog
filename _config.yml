@@ -77,7 +77,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Software Engineer <br> Backend, Devops"
+sidebar-about-description: "Junior Software Engineer | DevOps Engineer | Back-end | C | Python | JavaScript | Bash | Docker"
 sidebar-avatar: /img/PassportPhoto.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

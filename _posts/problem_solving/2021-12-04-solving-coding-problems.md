@@ -127,7 +127,7 @@ I have adopted her method, which she borrowed from G. Polya's book *How to solve
 * figure out how to make improvements
 * refactor the code to be more efficient
 
-- **to be more price, the code could look like this after refactoring**
+- **to be more precise, the code could look like this after refactoring**
 
    ```
      #!/usr/bin/env python3

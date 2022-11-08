@@ -1,5 +1,5 @@
 ---
-title: "My Notes - Introduction to DevOps"
+title: "Introduction to DevOps"
 subtitle: "This is the first attempt to organize my knowledge - in DevOps"
 layout: post
 author: "Coosoti"

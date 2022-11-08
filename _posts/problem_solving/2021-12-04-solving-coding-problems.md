@@ -1,5 +1,5 @@
 ---
-title: "My Notes - Problem Solving - Solving Coding Problems"
+title: "Problem Solving - Solving Coding Problems"
 subtitle: "How I Solve Coding Problems"
 layout: post
 author: "Coosoti"

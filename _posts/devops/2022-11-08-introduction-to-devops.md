@@ -1,6 +1,6 @@
 ---
 title: "DevOps - Roadmap"
-subtitle: "DevOps is a field that combines software development (Dev) and operations (Ops) to enhance collaboration, streamline processes, and improve the efficiency and reliability of software delivery."
+subtitle: "DevOps combines Dev and Ops to enhance collaboration and streamline software delivery."
 layout: post
 author: "Coosoti"
 header-style: text
@@ -25,4 +25,4 @@ DevOps is a field that combines software development (Dev) and operations (Ops) 
 9. **Collaboration and Communication:** Effective collaboration and communication skills to work closely with cross-functional teams and stakeholders, bridging the gap between development and operations.
 10. **Problem-Solving and Troubleshooting:** Ability to analyze complex issues, debug problems, and implement effective solutions in a fast-paced environment.
 
-#### These are some of the key tools and skills typically required in a DevOps career, but it's important to note that the DevOps landscape is continuously evolving, and staying up-to-date with emerging technologies and practices is crucial for success in this field.
+- These are some of the key tools and skills typically required in a DevOps career, but it's important to note that the DevOps landscape is continuously evolving, and staying up-to-date with emerging technologies and practices is crucial for success in this field.

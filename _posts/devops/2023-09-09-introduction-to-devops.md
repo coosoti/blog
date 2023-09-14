@@ -87,4 +87,4 @@ DevOps is a transformative approach to software development, emphasizing collabo
 
 In this introductory blog post, we've touched on the core principles of DevOps, its purpose, and how to present yourself as a DevOps engineer. As we progress in this DevOps journey, we'll dive deeper into the intricacies of DevOps practices and explore the tools and technologies that empower DevOps engineers to excel in their roles.
 
-Stay tuned for our next post, where we'll explore DevOps' role in the software development lifecycle and recap what we've learned so far. If you have any questions or topics you'd like us to cover in this DevOps series, please don't hesitate to share them in the comments section. We're here to help you master the world of DevOps.
+Stay tuned for our [next post](https://coosoti.github.io/2023/09/13/software-development-life-cycle/), where we'll explore DevOps' role in the software development lifecycle and recap what we've learned so far. If you have any questions or topics you'd like us to cover in this DevOps series, please don't hesitate to share them in the comments section. We're here to help you master the world of DevOps.

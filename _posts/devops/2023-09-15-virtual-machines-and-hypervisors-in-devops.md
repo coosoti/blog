@@ -1,5 +1,5 @@
 ---
-title: "Demystifying DevOps: Demystifying Virtual Machines and Hypervisors in DevOps"
+title: "Demystifying DevOps: Virtual Machines and Hypervisors in DevOps"
 subtitle: ""
 layout: post
 author: "Coosoti"
